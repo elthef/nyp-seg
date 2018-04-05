@@ -1,0 +1,5 @@
+print("My name is Barry")
+print("I am a Marvel Hero')
+print("My heigh is 151 cm")
+print("My weight is 38 kg")
+print("I am fast")
